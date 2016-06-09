@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Iterator&lt;T&gt;">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAAIACAAAAQAEAAQAAAACAAAAAAIAoAAAACAA=</HashCode>
+      <FileName>tree_container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="symbol">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAIBAAAAAAACAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>symbol.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Last_action">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJAAAAAYAAAAAAAAAAIAAAAAACAAAAABAAoAAAIAAA=</HashCode>
+      <FileName>Cancel_last_action.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Claf">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgEgAAAAAAAAAAAAAAAAAQBAAAAAAAAAAAAgAEQQCAA=</HashCode>
+      <FileName>Claf.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Data_list">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAiACCEAAGAAAAAAAAAAQAAAAEAgAAIEwAgAAAAA=</HashCode>
+      <FileName>Data_list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryFileClass">
+    <Position X="2.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAAAAAAAAAAAAAAAIAAAAIDAAAEABAAAQAAgAAI=</HashCode>
+      <FileName>My_Binary_File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FileClass">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAIAA=</HashCode>
+      <FileName>My_File_Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="My_Exception">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAAg=</HashCode>
+      <FileName>My_Exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Derived_Exception">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAABAAAAE=</HashCode>
+      <FileName>Derived_exception.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cont_Ex">
+    <Position X="8.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Exception_containerл.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File_Ex">
+    <Position X="5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAgAAAE=</HashCode>
+      <FileName>Exception_file.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinarySearchTree&lt;T&gt;">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAgAIAAAABAAgAAAAAgAAIQUAACQUAAAGAICBAAQAA=</HashCode>
+      <FileName>tree_container.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="tree_node&lt;T&gt;" Collapsed="true">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAIAAAAAAAAAAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>tree_container.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
